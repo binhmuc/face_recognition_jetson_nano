@@ -1,0 +1,5 @@
+enouvo images/
+lfw/
+weights/
+*.zip
+nn4.small2.lrn.h5
